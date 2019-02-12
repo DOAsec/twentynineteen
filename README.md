@@ -1,6 +1,6 @@
-**Theme Name:** Twenty Nineteen  
+**Theme Name:** Twenty Nineteen Dark  
 **Theme URI:** https://wordpress.org/themes/twentynineteen/  
-**Contributors:** the WordPress team  
+**Contributors:** the WordPress team, DOAsec  
 **Requires at least:** WordPress 4.9.6  
 **Version:** 1.2  
 **License:** GPLv2 or later  
